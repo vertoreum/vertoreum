@@ -12,52 +12,71 @@ Download wallets:
 Specifications:
 ----------------------
 
-https://vertoreum.org
 
-• ASIC resistant
+
+• Name:                 Vertoreum
+
+• Ticker:               VTRM
+
+• ASICS resistant
 
 • Protected against double spend and 51% attacks
 
 • Adopts Segwit transactions
 
-• Uses the POW (Proof of Work)
 
-• Algorithm:        YescryptR16
 
-• Block Time:       30 seconds
+---
 
-• Block Reward:     50 VTRM
 
-• Difficulty:       Each block
+• Algorithm:          YescryptR16
 
-• Halving:          1,000,000 blocks (347 days)
+• Block Time:         5 minutes
 
-• Ticker:           VTRM
+• Block Reward:       50 VTRM
 
-• P2P Port:         16178
+• Difficulty:         Every block with VertoreumDifficulty calculation
 
-• RPC Port:         16179
+• Halving:            105,000 blocks (1 year)
 
-• Max supply:       10,500,000
+• P2P Port:           16178
 
-• POW Confirmations:   100 blocks
+• RPC Port:           16179
+
+• Max supply:         10,500,000 VTRM
+
+• POW Confirmations:  3,360,000 blocks - 32 years
+
+• Premined:           None
+
+• Chain type:         POW
+
+
+
+---
 
 
 
 Links
 ----------------
 
-• Website: https://vertoreum.org
+• Website: 
 
-• Discord: https://discord.gg/r9SmgeQCtM
+• Explorer: 
 
-• Twitter: https://twitter.com/vertoreum
+• Mining Pool: 
 
-• Reddit: https://reddit.com/user/vertoreum
+• Discord: 
 
-• Instagram: https://instagram.com/vertoreum
+• Telegram: 
 
-• Forum: https://bitcointalk.org/index.php?topic=5390782
+• Twitter: 
+
+• Reddit: 
+
+• Instagram: 
+
+• Forum: 
 
 
 
@@ -66,6 +85,6 @@ Links
 License
 -------
 
-Vertoreum Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Vertoreum is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see http://opensource.org/licenses/MIT.
 
