@@ -45,7 +45,9 @@ Specifications:
 
 • Max supply:         10,500,000 VTRM
 
-• POW Confirmations:  3,360,000 blocks - 32 years
+• POW Lifespan:  3,360,000 blocks - 32 years
+
+• Confirmations: 100
 
 • Premined:           None
 
