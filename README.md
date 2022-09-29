@@ -30,7 +30,7 @@ https://vertoreum.org
 
 • Difficulty:       Each block
 
-• Halving:          1,000,000 bocks (347 days)
+• Halving:          1,000,000 blocks (347 days)
 
 • Ticker:           VTRM
 
