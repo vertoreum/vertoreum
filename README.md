@@ -14,7 +14,7 @@ Specifications:
 
 https://vertoreum.org
 
-• ASICS resistant
+• ASIC resistant
 
 • Protected against double spend and 51% attacks
 
@@ -26,7 +26,7 @@ https://vertoreum.org
 
 • Block Time:       30 seconds
 
-• Block Reward:     25 VTRM
+• Block Reward:     50 VTRM
 
 • Difficulty:       Each block
 
@@ -38,7 +38,7 @@ https://vertoreum.org
 
 • RPC Port:         16179
 
-• Max supply:       50,000,000
+• Max supply:       10,500,000
 
 • POW Confirmations:   100 blocks
 
@@ -49,21 +49,13 @@ Links
 
 • Website: https://vertoreum.org
 
-• Explorer: https://explorer.vertoreum.org
+• Discord: https://discord.gg/r9SmgeQCtM
 
-• How to mine: https://vertoreum.org/mining
+• Twitter: https://twitter.com/vertoreum
 
-• Mining Pool: https://pool.vertoreum.org
+• Reddit: https://reddit.com/user/vertoreum
 
-• Discord: https://discord.gg/pXPVNBW7ZB
-
-• Telegram: https://t.me/VertoreumREA
-
-• Twitter: https://twitter.com/VERTOREUM1
-
-• Reddit: https://reddit.com/user/VERTOREUM
-
-• Instagram: https://instagram.com/p/CbBUDq0OgBa/
+• Instagram: https://instagram.com/vertoreum
 
 • Forum: https://bitcointalk.org/index.php?topic=5390782
 
@@ -74,6 +66,6 @@ Links
 License
 -------
 
-Cducoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+Vertoreum Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see http://opensource.org/licenses/MIT.
 
