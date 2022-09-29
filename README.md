@@ -60,23 +60,17 @@ Specifications:
 Links
 ----------------
 
-• Website: 
+• Website: https://vertoreum.org
 
-• Explorer: 
+• Discord: https://discord.gg/r9SmgeQCtM
 
-• Mining Pool: 
+• Twitter: https://twitter.com/vertoreum
 
-• Discord: 
+• Reddit: https://reddit.com/user/vertoreum
 
-• Telegram: 
+• Instagram: https://instagram.com/vertoreum
 
-• Twitter: 
-
-• Reddit: 
-
-• Instagram: 
-
-• Forum: 
+• Forum: https://bitcointalk.org/index.php?topic=5415401.msg
 
 
 
